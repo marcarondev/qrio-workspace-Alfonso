@@ -4,7 +4,6 @@ def main():
     hello_world_string = "Hello, World!"
     print(hello_world_string)
 
-    # print the first character of the string
     print(hello_world_string[0])
 
     # print the last character of the string
@@ -66,3 +65,5 @@ if __name__ == "__main__":
     total = checkout(item)
     pay(total)
 
+
+Alfonso
